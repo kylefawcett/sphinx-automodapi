@@ -4,6 +4,7 @@ Changes in sphinx-automodapi
 0.17.0 (unreleased)
 -------------------
 
+- Fixes fixes ``__slots__`` hides class variables [#168]
 - Minimum supported Python version is now 3.8. [#177]
 
 0.16.0 (2023-08-17)
